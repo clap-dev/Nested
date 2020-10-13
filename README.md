@@ -4,7 +4,7 @@
 Nested is a smart, lightweight, and iterative algorithm to parse *complexly* nested json values. 
 
 ## Usage
-```bash
+```python
 from nested import json_iterative
 
 data = {"rows":[{"elements":[{"distance":{"text":"227 mi","value":365468},"duration":{"text":"3 hours 54 mins","value":14064},"status":"OK"},{"distance":{"text":"94.6 mi","value":152193},"duration":{"text":"1 hour 44 mins","value":6227},"status":"OK"}]}]}
