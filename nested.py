@@ -1,4 +1,4 @@
-def json_iterative(data, key):
+def parse(data, key):
     results = []
     items = [data]
 
