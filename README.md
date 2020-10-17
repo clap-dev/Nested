@@ -1,7 +1,7 @@
 
 # Nested
 
-Nested is a smart, lightweight, and iterative algorithm to parse *complexly* nested json values. 
+Nested is a smart, lightweight, and iterative algorithm to parse *complexly* nested json. 
 
 ## Usage
 ```python
