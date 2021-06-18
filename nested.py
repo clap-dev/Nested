@@ -8,6 +8,7 @@ def parse(data, key):
         if isinstance(current, dict):
             if key in current:
                 results.append(current[key])
+                
             items.extend(current.values())
 
         elif isinstance(current, list):
